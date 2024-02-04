@@ -1,6 +1,6 @@
 # Project Portfolio
 
-###Education
+### Education
 Applied Mathematics & Computer Science, BS
 
 ### Projects
