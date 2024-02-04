@@ -1,8 +1,10 @@
 # Project Portfolio
 
-### Education
+Technical Skils: Python
+
+## Education
 Applied Mathematics & Computer Science, BS
 
-### Projects
+## Projects
 Data Cleaning Cricket Player Stats
 -
